@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jesús César Guerrero</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=cesar240899&label=Profile%20views&color=0e75b6&style=flat" alt="cesar240899" /> </p>
+<h1 align="center">Hola 👋, soy Jesús César Guerrero</h1><h3 align="center">Un apasionado desarrolador del Backend de México</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=cesar240899&label=Profile%20views&color=0e75b6&style=flat" alt="cesar240899" /> </p>
 
 
 
